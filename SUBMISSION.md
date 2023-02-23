@@ -1,4 +1,4 @@
-#Your GitHub Actions dashboard showing a successful first build. 
+#Your GitHub Actions dashboard showing a successful first build.
 https://github.com/tdeng2021/spring-petclinic/blob/master/HW5_images/screenshot_1.png
 
 #Your GitHub repository with the readme.md file selected showing the code that you changed to update the badge 
