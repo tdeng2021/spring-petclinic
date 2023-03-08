@@ -268,9 +268,10 @@
     <profile>
       <id>css</id>
       <build>
-          <!-- update
 
        <plugins>
+                     <!-- update
+
          <plugin>
            <groupId>org.apache.maven.plugins</groupId>
            <artifactId>maven-dependency-plugin</artifactId>
